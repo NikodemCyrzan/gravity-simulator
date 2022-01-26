@@ -1,0 +1,13 @@
+{
+    "presets": [
+        [
+            "@babel/preset-env",
+            {
+                "targets": {
+                    "edge": "17"
+                }
+            }
+        ],
+        "@babel/preset-typescript"
+    ]
+}
